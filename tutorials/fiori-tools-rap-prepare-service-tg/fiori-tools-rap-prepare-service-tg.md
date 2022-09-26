@@ -1,10 +1,11 @@
-﻿---
+---
 title: Prepare the RAP-Based Travel Service Test Green Pop-over Thirty Two
 description: Prepare a travel service based on the SAP ABAP RESTful Application Programming Model (RAP).
 auto_validation: true
 time: 20
-tags: [ tutorial>beginner, products>sap-fiori-elements, products>sap-business-technology-platform, products>sap-btp--abap-environment]
-primary_tag: products>sap-fiori
+primary_tag: topic>abap-development
+tags: [ tutorial>intermediate, topic>abap-development  ]
+
 ---
 
 ## Prerequisites
