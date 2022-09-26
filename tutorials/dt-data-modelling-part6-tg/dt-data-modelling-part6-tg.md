@@ -78,6 +78,5 @@ Double click one of the results, and it will zoom into the selected operator. As
 
 ![Remote Row Scan](extended-storage.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
