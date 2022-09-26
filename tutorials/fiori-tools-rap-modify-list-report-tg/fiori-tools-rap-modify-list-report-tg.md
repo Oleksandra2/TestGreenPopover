@@ -3,8 +3,9 @@ title: Refine the List Report with Annotations Test Green Pop-over Thirty One
 description: Add additional annotations to show filter fields and columns on the list report as well as to allow the selection of data using a value help.
 auto_validation: true
 time: 30
-tags: [ products>sap-fiori-elements, tutorial>beginner, products>sap-business-technology-platform, products>sap-btp--abap-environment]
-primary_tag: products>sap-fiori
+primary_tag: topic>abap-development
+tags: [ tutorial>intermediate, topic>abap-development  ]
+
 ---
 
 ## Prerequisites
