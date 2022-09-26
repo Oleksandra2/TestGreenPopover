@@ -48,7 +48,6 @@ Verify everything executed correctly.
 
 ![Restore Success](restore-success.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
