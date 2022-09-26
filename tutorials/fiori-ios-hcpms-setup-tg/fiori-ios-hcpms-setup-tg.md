@@ -2,8 +2,8 @@
 title: Access SAP Mobile Services Test Green Pop-over Twenty Two
 description: Access SAP Mobile Services within a SAP Business Technology Platform account and open the Mobile Services cockpit.
 auto_validation: true
-primary_tag: products>sap-mobile-services
-tags: [  tutorial>beginner, topic>mobile, operating-system>ios, products>sap-business-technology-platform, products>sap-mobile-services, products>ios-sdk-for-sap-btp, products>android-sdk-for-sap-btp, products>sap-mobile-cards, products>mobile-development-kit-client]
+primary_tag: topic>abap-development
+tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 5
 author_name: Jitendra Kansal
 author_profile: https://github.com/jitendrakansal
