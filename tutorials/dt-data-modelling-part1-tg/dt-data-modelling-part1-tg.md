@@ -67,7 +67,6 @@ These calculation views can be either graphical or scripted, depending on how th
 
 For simplicity, in the upcoming set of tutorials, we will only be developing in the graphical environment.
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
