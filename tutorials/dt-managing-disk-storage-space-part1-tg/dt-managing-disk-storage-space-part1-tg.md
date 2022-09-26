@@ -92,6 +92,5 @@ Once you have filled in the required information, you can click the "**Create**"
 ALTER EXTENDED STORAGE ALTER DBSPACE ES_USER ADD FILE "ES_USER_FILE1" '<SID>ESDB_usr_1.es' SIZE 100 MB RESERVE 25 MB;
 ```
 
-[VALIDATE_1]
 
 [ACCORDION-END]
