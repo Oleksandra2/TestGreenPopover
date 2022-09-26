@@ -4,8 +4,8 @@ description: Enable SAP Mobile Services, create a connection in the SAP BTP SDK 
 author_name: Kevin Muessig
 author_profile: https://github.com/KevinMuessig
 auto_validation: true
-primary_tag: products>ios-sdk-for-sap-btp
-tags: [  tutorial>beginner, operating-system>ios, topic>mobile, topic>odata, products>sap-business-technology-platform, products>sap-mobile-services ]
+primary_tag: topic>abap-development
+tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 15
 ---
 
