@@ -2,8 +2,8 @@
 title: Use the Sample OData Service for Mobile Apps Test Green Pop-over Twenty 
 description: Use the sample OData service included with the SAP Mobile Services for development and operations account.
 auto_validation: true
-primary_tag: products>ios-sdk-for-sap-btp
-tags: [  tutorial>beginner, topic>mobile, operating-system>ios, products>sap-business-technology-platform ]
+primary_tag: topic>abap-development
+tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 10
 ---
 ## Prerequisites  
