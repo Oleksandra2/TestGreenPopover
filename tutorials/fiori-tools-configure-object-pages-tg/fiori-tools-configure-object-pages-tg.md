@@ -3,8 +3,9 @@ title: Configure Object Pages Using SAP Fiori Tools Test Green Pop-over Thirty
 description: Configure the object pages that can be accessed from your app using the various extensions available in SAP Fiori tools.
 auto_validation: true
 time: 40
-tags: [ tutorial>beginner, products>sap-fiori, topic>odata, topic>sapui5, topic>user-interface, products>sap-fiori-tools]
-primary_tag: products>sap-fiori-tools
+primary_tag: topic>abap-development
+tags: [ tutorial>intermediate, topic>abap-development  ]
+
 ---
 
 ## Prerequisites
