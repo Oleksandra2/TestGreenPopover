@@ -2,8 +2,8 @@
 title: Configure Mobile Services in Assistant Test Green Pop-over Twenty Three
 description: Enable SAP Mobile Services and create a connection in the SAP BTP SDK Assistant for iOS.
 auto_validation: true
-primary_tag: products>ios-sdk-for-sap-btp
-tags: [  tutorial>beginner, operating-system>ios, topic>mobile, topic>odata, products>sap-business-technology-platform, products>sap-mobile-services]
+primary_tag: topic>abap-development
+tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 15
 author_name: Sandeep TDS
 author_profile: https://github.com/sandeep-tds
