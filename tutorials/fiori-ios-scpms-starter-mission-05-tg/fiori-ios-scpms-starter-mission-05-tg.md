@@ -4,8 +4,8 @@ description: Learn what Mac Catalyst is and what you should consider before tran
 auto_validation: true
 author_name: Kevin Muessig
 author_profile: https://github.com/KevinMuessig
-primary_tag: products>ios-sdk-for-sap-btp
-tags: [  tutorial>beginner, operating-system>ios, topic>mobile, topic>odata, products>sap-business-technology-platform ]
+primary_tag: topic>abap-development
+tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 20
 ---
 
