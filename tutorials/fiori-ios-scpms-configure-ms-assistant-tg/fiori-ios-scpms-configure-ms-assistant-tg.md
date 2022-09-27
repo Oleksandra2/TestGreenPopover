@@ -67,5 +67,4 @@ Click **Save** when finished. The account is now added to the SAP BTP SDK Assist
 
 Click **Back** to return to the main screen for the **SAP BTP SDK Assistant for iOS**.
 
-[VALIDATE_1]
 [ACCORDION-END]
