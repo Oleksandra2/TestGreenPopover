@@ -59,7 +59,6 @@ Once that is complete, you can find your calculation views inside the tutorial.
 
 ![View Calculation Views](view-calculation-views.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
