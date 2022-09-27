@@ -1,4 +1,4 @@
-﻿---
+---
 title: Create a Cloud Foundry or XS Advanced App that Queries SAP HANA Test Green Pop-over Fourty 
 description: Create a Node.js app that queries SAP HANA and can be run in Cloud Foundry or XS Advanced.
 auto_validation: true
@@ -493,7 +493,6 @@ The [Cloud Connector](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f6
 
 Congratulations, you have built, deployed and run an app that queries SAP HANA in Cloud Foundry and XS advanced as well as become familiar with the command line interface.
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 
