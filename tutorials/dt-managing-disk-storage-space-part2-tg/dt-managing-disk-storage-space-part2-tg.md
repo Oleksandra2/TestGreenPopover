@@ -40,7 +40,6 @@ Once the save completes, the updated `Dbspace` File details for the `ES_USER_FIL
 
 ![New Size](new_db_size.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
