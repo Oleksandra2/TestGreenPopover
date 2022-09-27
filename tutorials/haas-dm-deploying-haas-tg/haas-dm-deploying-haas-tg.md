@@ -117,7 +117,6 @@ Use the following commands to list the available services and check the status o
 
 ![New project from template](15.png)
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 ---
