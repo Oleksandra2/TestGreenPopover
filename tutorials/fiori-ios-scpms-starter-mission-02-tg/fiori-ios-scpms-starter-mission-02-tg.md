@@ -5,8 +5,9 @@ auto_validation: true
 author_name: Kevin Muessig
 author_profile: https://github.com/KevinMuessig
 primary_tag: topic>abap-development
-tags: [ tutorial>intermediate, topic>abap-development  ]
+tags: [ tutorial>intermediate, topic>abap-development ]
 time: 60
+
 ---
 
 ## Prerequisites
@@ -292,5 +293,4 @@ You will now implement some code to set up the `OverviewTableViewController` for
 
 [DONE]
 [ACCORDION-END]
-
 
