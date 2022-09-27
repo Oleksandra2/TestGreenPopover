@@ -239,7 +239,6 @@ namespace dotNETQuery
 Congratulations! You have now created and debugged a .NET application that connects to and queries an SAP HANA database.  
 
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 ---
