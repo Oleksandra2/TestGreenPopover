@@ -93,7 +93,6 @@ The aggregation defines how `O_TOTALPRICE` will be joined. Since there shouldn't
 
 We have now completed our calculation view, which created a union between both in-memory and extended tables.
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
