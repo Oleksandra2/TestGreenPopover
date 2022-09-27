@@ -67,6 +67,5 @@ SELECT "TPCH"."ORDERS_ALL_VIEW".* FROM "TPCH"."ORDERS_ALL_VIEW"
 
 ![Query View](query-view.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
