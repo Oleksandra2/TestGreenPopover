@@ -32,7 +32,6 @@ Multi-store data management allows for administration tasks to be carried out mo
 
 One function of multi-store tables is data aging which allows you to "age out" older data using Dynamic Tiering. Every multi-store table contains at least two partitions: one of which is in the in-memory DEFAULT STORAGE and the other is in disk based EXTENDED STORAGE. This allows you to still access and update older data without managing two separate systems for current or older data and is cost effective as well. There may be some older data that isn't frequently used and so the "cold" data is moved into extended storage and the "hot" new and frequently used data remains in-memory.
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
