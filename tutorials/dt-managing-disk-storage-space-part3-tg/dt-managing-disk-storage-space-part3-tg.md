@@ -32,7 +32,6 @@ We can drop the `Dbspace` file that we just created in the previous tutorials by
 
 Click the red `X` button next to `ES_USER_FILE1`. A pop-up dialogue box will appear confirming the deletion of the `Dbspace` file. Click "**OK**" to delete the file.
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
