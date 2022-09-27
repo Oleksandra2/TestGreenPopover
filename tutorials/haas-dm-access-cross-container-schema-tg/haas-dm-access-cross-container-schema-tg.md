@@ -6,7 +6,8 @@ time: 20
 author_name: Thomas Jung
 author_profile: https://github.com/jung-thomas
 tags: [tutorial>beginner, products>sap-hana, tutorial>license]
-primary_tag: products>sap-cloud-platform\,-sap-hana-service
+primary_tag: products>analytics
+
 ---
 
 ## Prerequisites
