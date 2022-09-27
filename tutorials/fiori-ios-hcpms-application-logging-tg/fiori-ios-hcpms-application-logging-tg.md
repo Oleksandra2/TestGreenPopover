@@ -91,7 +91,6 @@ self.someOperation {
 }
 ```
 
-[VALIDATE_2]
 
 [ACCORDION-END]
 
