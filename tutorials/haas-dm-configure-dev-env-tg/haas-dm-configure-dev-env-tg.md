@@ -96,7 +96,6 @@ Click **Save**. Then click **Refresh** on the Confirmation Needed popup.
 
 ![New project from template](15.png)
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 ---
