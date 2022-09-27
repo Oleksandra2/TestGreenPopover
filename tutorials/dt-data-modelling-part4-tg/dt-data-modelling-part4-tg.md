@@ -3,7 +3,7 @@ title: Creating a Calculation View from the Union of In-Memory and Extended Tabl
 description: How to use unions to create a calculation view
 auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
-tags: [ tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
+tags: [ tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql, tutorial>license ]
 ---
 
 ## Prerequisites
