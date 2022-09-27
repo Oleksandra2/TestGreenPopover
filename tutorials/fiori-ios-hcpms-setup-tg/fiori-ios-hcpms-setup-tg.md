@@ -92,5 +92,4 @@ Once SAP Mobile Services is available, you can use its features in your Mobile d
 
     Bookmark the **Mobile Services cockpit URL** for quick access.
 
-[VALIDATE_3]
 [ACCORDION-END]
