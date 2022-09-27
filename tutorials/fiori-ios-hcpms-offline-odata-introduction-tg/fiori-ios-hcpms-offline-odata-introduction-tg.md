@@ -83,7 +83,6 @@ Please find a schematic representation of the request for refresh sequence below
 
 When the database is being refreshed the the app sends the defining queries over to the SAP Mobile Services for development and operations. If the originating OData service supports delta-token, the client store on the SAP Mobile Services for development and operations is refreshed using delta-tokens, otherwise a full refresh of the client store is performed. Once the client store is in sync all changes are sent to the client using the MobiLink protocol.
 
-[VALIDATE_3]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 4: ](Data Flush sequence)]
