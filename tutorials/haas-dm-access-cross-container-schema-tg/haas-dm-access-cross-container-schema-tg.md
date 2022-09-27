@@ -358,7 +358,6 @@ Right-click on the view and choose **Open Data**. Paste the generated SQL statem
 
 ![Create synonym](33.png)
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 9: ](Troubleshooting insufficient privileges)]
