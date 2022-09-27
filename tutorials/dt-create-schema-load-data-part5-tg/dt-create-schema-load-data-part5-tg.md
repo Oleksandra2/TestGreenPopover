@@ -81,7 +81,6 @@ Left click on the SQL console, and you should be prompted by a "Rollback Connect
 
 ![Rollback Connection](rollback-connection.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
