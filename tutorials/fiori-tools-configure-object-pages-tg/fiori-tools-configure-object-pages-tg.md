@@ -403,5 +403,4 @@ Congratulations! Over the past four tutorials, you have used SAP Fiori tools to 
 
 All of these tools can be used with any of the available SAP Fiori elements page types. Good luck with your future projects!
 
-[VALIDATE_3]
 [ACCORDION-END]
