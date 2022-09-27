@@ -5,7 +5,7 @@ auto_validation: true
 author_name: Thomas Jung
 author_profile: https://github.com/jung-thomas
 time: 15
-tags: [tutorial>beginner, products>sap-hana, products>sap-cloud-platform\,-sap-hana-service, tutorial>license]
+tags: [tutorial>beginner, products>sap-hana, tutorial>license]
 primary_tag: products>sap-hana
 ---
 
