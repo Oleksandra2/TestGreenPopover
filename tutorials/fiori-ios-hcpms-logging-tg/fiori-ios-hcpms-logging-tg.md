@@ -65,7 +65,6 @@ By default, the log viewer displays logs and traces occurred in the last 60 minu
 
 ![SAP BTP SDK Assistant for iOS](fiori-ios-hcpms-logging-03.png)
 
-[VALIDATE_2]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 3: ](Examine changed log details)]
