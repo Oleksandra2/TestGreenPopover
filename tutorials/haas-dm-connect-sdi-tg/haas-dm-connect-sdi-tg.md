@@ -300,9 +300,7 @@ Check the remote objects to make sure configuration has been successful and to c
 
 ![Configure client](31.png)
 
-[VALIDATE_1]
 [ACCORDION-END]
-
 
 
 ---
