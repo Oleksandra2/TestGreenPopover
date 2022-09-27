@@ -256,12 +256,6 @@ The following steps demonstrate how to configure `DBeaver` to connect to SAP HAN
 
 Congratulations! You have now created and debugged a Java application that connects to and queries an SAP HANA database and used the JDBC driver in a third party tool.
 
-[VALIDATE_1]
 [ACCORDION-END]
-
-
-
-
-
 
 ---
