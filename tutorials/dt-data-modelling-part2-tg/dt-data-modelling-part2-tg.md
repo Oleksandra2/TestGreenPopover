@@ -3,7 +3,7 @@ title: Importing Required Calculation Views Test Green Pop-over Six
 description: Conversion and importation of calculation views for Dynamic Tiering
 auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
-tags: [ tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
+tags: [ tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql, tutorial>license ]
 ---
 
 ## Prerequisites
