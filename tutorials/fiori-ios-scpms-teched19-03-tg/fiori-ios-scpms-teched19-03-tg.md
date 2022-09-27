@@ -898,5 +898,4 @@ Overview View Controller             |  Customer Detail
 :-------------------------:|:-------------------------:
 ![App](fiori-ios-scpms-teched19-06.png)  |  ![App](fiori-ios-scpms-teched19-07.png)
 
-[VALIDATE_7]
 [ACCORDION-END]
