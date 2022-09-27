@@ -106,9 +106,6 @@ This tutorial requires an individual OData service having a unique suffix for ea
     Adding annotations to enrich the service will be the main part of this tutorial - this will now be done within the upcoming steps in the next chapters.
 
 
-
-
-[VALIDATE_1]
 [ACCORDION-END]
 
 ---
