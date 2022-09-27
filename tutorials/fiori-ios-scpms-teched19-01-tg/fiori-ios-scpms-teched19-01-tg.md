@@ -188,5 +188,4 @@ This will configure the simulator to automatically use `FaceID` or `TouchID` to 
 
     !![App Onboarding](fiori-ios-scpms-teched19-21.gif)
 
-[VALIDATE_3]
 [ACCORDION-END]
