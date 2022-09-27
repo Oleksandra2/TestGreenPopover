@@ -47,7 +47,6 @@ Next, we will select the **Semantics**, to ensure each column is set as the righ
 
 ![Check Semantics Type](check-semantics-type.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
