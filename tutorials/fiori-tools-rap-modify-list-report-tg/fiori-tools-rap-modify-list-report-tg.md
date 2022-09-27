@@ -66,7 +66,6 @@ Check your changes by refreshing the preview of your application and choose **Go
 
 You will now see the column **Travel ID** made visible on the list report table by the `@UI.lineItem` annotation added to the metadata extensions file. The data shown in the column is loaded from the database with the request triggered by the **Go** button.
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
@@ -172,6 +171,7 @@ Save and activate the metadata extensions file and refresh the application previ
 
 [DONE]
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [Step 4: ](Refine columns that have IDs)]
 
 Instead of showing IDs for the fields Travel ID, Agency ID and Customer ID, one would preferably show descriptions or names. Additionally, some labels of specific fields will be changed globally to make the new label accessible wherever the fields are used on the list report or object page.
@@ -228,7 +228,6 @@ After saving and activating the file and refreshing the application, you will se
 !![refine ids](IDsLabels_2.png)
 
 
-[VALIDATE_2]
 
 [ACCORDION-END]
 [ACCORDION-BEGIN [Step 5: ](Implement value help for selection fields Customer and Status)]
@@ -423,7 +422,6 @@ Refresh your application and reload the data by choosing **Go** in the list repo
 !![overall status criticality](StatusCriticality_3.png)
 
 
-[VALIDATE_3]
 
 [ACCORDION-END]
 
