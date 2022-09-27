@@ -48,7 +48,6 @@ In this tutorial, you will learn how to enhance your [SAP BTP SDK for iOS Assist
 
     > You must enable this checkbox if you are building an offline capable multi-user application.
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 3: ](Configure trust)]
@@ -185,7 +184,6 @@ In the given scenario any pending changes done by a user should be uploaded befo
     }
     ```
 
-[VALIDATE_2]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 7: ](Modify onboarding and restore steps)]
@@ -373,7 +371,6 @@ In the given scenario any pending changes done by a user should be uploaded befo
     > Replace the `configureOData` function with the given code.
 
 
-[VALIDATE_3]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 9: ](Handle offline OData sync failure)]
@@ -739,7 +736,6 @@ In the given scenario any pending changes done by a user should be uploaded befo
 
     ![iOS App User passcode](img_12_15.png)
 
-[VALIDATE_4]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 13: ](Try offline scenarios)]
