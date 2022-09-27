@@ -93,5 +93,4 @@ You can see that you're going to change the appearance on MacOS to a split view 
 
     !![Mac Catalyst Project](fiori-ios-scpms-starter-mission-05-4.png)
 
-[VALIDATE_4]
 [ACCORDION-END]
