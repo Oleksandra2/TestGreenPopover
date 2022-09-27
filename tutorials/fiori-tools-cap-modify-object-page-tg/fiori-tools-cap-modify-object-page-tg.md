@@ -65,7 +65,6 @@ tags: [ tutorial>intermediate, topic>abap-development  ]
     !![Annotation Cursor](t4-annotation-section-field-2.PNG)
 
 
-[VALIDATE_1]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 2: ](Add new field group to a section)]
@@ -170,7 +169,6 @@ In the previous step, you added a new field to an existing field group. Now you 
 
     !![Annotation Cursor](t4-annotation-section-field-group.PNG)
 
-[VALIDATE_2]
 [ACCORDION-END]
 
 
@@ -215,7 +213,6 @@ You have now finished the creation of the new custom section. Refresh your appli
 
 !![Annotation Cursor](t4-annotation-custom-section-on-object-page.PNG)
 
-[VALIDATE_3]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 4: ](Add new column to Incident Process Flow table)]
@@ -273,7 +270,6 @@ The flexible column layout allows you to have the list report and the object pag
 
     !![Annotation Cursor](t4-flexible-column-layout-final.PNG)
 
-[VALIDATE_4]
 
 [ACCORDION-END]
 
