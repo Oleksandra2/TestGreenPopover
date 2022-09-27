@@ -81,6 +81,5 @@ When activated, the grey diamond, in the bottom right corner, beside each view w
 
 ![Before and after activation views](pre-activation.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
