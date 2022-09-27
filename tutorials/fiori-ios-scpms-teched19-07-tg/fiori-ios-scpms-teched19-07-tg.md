@@ -493,5 +493,4 @@ Tap on **Done** to go back to the Overview Table View Controller.
 
 Congratulations! You've successfully used a pre-trained Core ML model and Vision to classify product images.
 
-[VALIDATE_6]
 [ACCORDION-END]
