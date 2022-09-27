@@ -73,7 +73,6 @@ Once you are logged in as `<sid>adm` you may run the command "**`HDB info`**" to
 
 ![Check esserver](esserver-putty.png)
 
-[VALIDATE_1]
 
 [ACCORDION-END]
 
