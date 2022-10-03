@@ -26,6 +26,78 @@ In the CDS files of your RAP-based service you can add annotations to refine the
 
 [ACCORDION-BEGIN [Step 1: ](Create metadata extension file for travel entity)]
 
+>Make sure you are choosing the right device platform tab above.
+
+[OPTION BEGIN [Android]]
+
+1. Re-launch the app on your device, you may asked to authenticate with passcode or Biometric authentication. You will see a _Confirmation_ pop-up, tap **OK**.
+
+2. Tap **Customer List** | tap any record | tap trash icon.
+
+    ![MDK](img_5.1.png)
+
+3. A confirmation dialog appears for user action, tap **OK**.
+
+    ![MDK](img_5.2.png)
+
+    Since this is an Offline application, record has been removed from local store and deletion request has been added to request queue. This has to be sent or uploaded to the backend explicitly.  
+
+    >MDK base template has added a **Sync** button on main page of the app to upload local changes from device to the backend and to download the latest changes from backend to the device. Actions | Service | `UploadOffline.action` & `DownloadOffline.action`.
+
+4. On Main page, tap **Sync**, a successful message will be shown.
+
+    ![MDK](img_5.3.png)
+
+[OPTION END]
+
+[OPTION BEGIN [iOS]]
+
+1. Re-launch the app on your device, you may asked to authenticate with passcode or Biometric authentication. You will see a _Confirmation_ pop-up, tap **OK**.
+
+2. Tap **Customer List** | tap any record | tap trash icon.
+
+    ![MDK](img_5.4.png)
+
+3. A confirmation dialog appears for user action, tap **OK**.
+
+    ![MDK](img_5.5.png)
+
+    Since this is an Offline application, record has been removed from local store and deletion request has been added to request queue. This has to be sent or uploaded to the backend explicitly.  
+
+    >MDK base template has added a **Sync** button on main page of the app to upload local changes from device to the backend and to download the latest changes from backend to the device. Actions | Service | `UploadOffline.action` & `DownloadOffline.action`.
+
+4. On Main page, tap **Sync**, a successful message will be shown. As Sync is pressed, `UploadOffline.action` gets triggered to upload local changes from device to the backend and on success of this call, `DownloadOffline.action` is being called.
+
+    ![MDK](img_5.6.png)
+
+[OPTION END]
+
+[OPTION BEGIN [Web]]
+
+
+1. Either click the highlighted button or refresh the web page to load the changes.
+
+    !![MDK](img-5.8.png)
+
+    >If you see the error `404 Not Found: Requested route ('xxxxx-dev-nsdemosampleapp-approuter.cfapps.xxxx.hana.ondemand.com') does not exist.` while accessing the web application, make sure that in your space cockpit, highlight applications are in started state.
+
+    >!![MDK](img-5.9.png)
+
+2. Click **Customer List**| click any record | click **Trash**.
+
+    !![MDK](img_5.10.png)
+
+3. A confirmation dialog appears for user action, click **OK**.
+
+    !![MDK](img_5.11.png)
+
+[OPTION END]
+
+You can cross verify if this record has been deleted in the backend.
+
+>Backend URL can be found in [Mobile Services Cockpit](cp-mobile-dev-kit-ms-setup).
+
+>**Mobile Applications** | **Native/Hybrid** | click the MDK App **com.sap.mdk.demo** | **Mobile Connectivity** | click **Launch in Browser** icon
 
 Annotations controlling the UI can be stored in metadata extension files. In this section such a file will be created for the Travel entity and a first annotation will be added.
 
