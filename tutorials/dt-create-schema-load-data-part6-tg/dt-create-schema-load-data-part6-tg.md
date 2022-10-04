@@ -1,6 +1,6 @@
 ---
 title: Migrate Records in Related Tables Using Stored Procedure Test Green Pop-over Two
-description: Using a stored procedure to migrate records in related tables as a single transaction.
+description: <br>Using a stored procedure to migrate records in related tables as a single transaction.</br>
 auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
