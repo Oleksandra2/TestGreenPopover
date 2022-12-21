@@ -1,5 +1,5 @@
 ---
-title: Dropping a Dbspace File Test Green Pop-over Thirteen
+title: Dropping a Dbspace File Test Green Pop-over Thirteen upd
 primary_tag: products>sap-hana-dynamic-tiering
 auto_validation: true
 description: 2 methods to drop a Dbspace file
