@@ -4,7 +4,7 @@ description: Learn how to configure the assistant generated application to enabl
 auto_validation: true
 time: 60
 tags: [ tutorial>intermediate, topic>mobile, products>sap-mobile-services, operating-system>ios, products>sap-business-technology-platform, tutorial>license]
-primary_tag: products>sap-btp-sdk-for-ios
+primary_tag: software-product>businessobjects-universal-bridge
 ---
 
 ## Prerequisites
