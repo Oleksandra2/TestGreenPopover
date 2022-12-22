@@ -1,5 +1,5 @@
 ---
-title: Selectively Move Data Between In-Memory and Extended Tables Test Green Pop-over One
+title: Selectively Move Data Between In-Memory and Extended Tables Test Green Pop-over One upd
 description: Move data between in-memory and extended tables. Set connection property values.
 auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
