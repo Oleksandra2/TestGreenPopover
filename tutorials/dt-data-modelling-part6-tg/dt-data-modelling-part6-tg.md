@@ -2,7 +2,7 @@
 title: Seeing Calculation View Results Test Green Pop-over Ten
 description: Generating select statements for results and visualization
 auto_validation: true
-primary_tag: products>sap-hana-dynamic-tiering
+primary_tag: programming-tool>multi-tenant-architecture
 tags: [ tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
 time: 15
 ---
