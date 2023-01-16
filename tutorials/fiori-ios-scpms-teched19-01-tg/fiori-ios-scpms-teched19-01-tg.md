@@ -1,5 +1,5 @@
 ---
-title: Create Xcode Project with SAP BTP SDK for iOS Test Green Pop-over Twenty Six updated
+title: Create Xcode Project with SAP BTP SDK for iOS Test Green Pop-over Twenty Six updated 2
 description: Enable SAP Mobile Services, create a connection in the SAP BTP SDK Assistant for iOS, and generate a master-detail view app with the Assistant.
 author_name: Kevin Muessig
 author_profile: https://github.com/KevinMuessig
