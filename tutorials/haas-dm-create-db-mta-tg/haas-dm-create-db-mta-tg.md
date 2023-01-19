@@ -1,11 +1,11 @@
 ---
-title: Create a Database Multi-Target Application with SAP HANA service for SAP BTP Test Green Pop-over Thirty Eight
+title: Create a Database Multi-Target Application with SAP HANA service for SAP BTP Test Green Pop-over Thirty Eight Updated
 description: Create an application with a database module.
 auto_validation: true
 time: 15
 author_name: Thomas Jung
 author_profile: https://github.com/jung-thomas
-tags: [tutorial>beginner, products>sap-hana, tutorial>license]
+tags: [tutorial>beginner, products>sap-hana, topic>android, tutorial>license]
 primary_tag: products>sap-hana
 ---
 
@@ -30,6 +30,8 @@ primary_tag: products>sap-hana
 [ACCORDION-BEGIN [Step 1: ](Create a new project from template)]
 
 Click `File->New` and choose **Project from Template**.
+
+TEST TEST TEST
 
 ![New project from template](1.png)
 
