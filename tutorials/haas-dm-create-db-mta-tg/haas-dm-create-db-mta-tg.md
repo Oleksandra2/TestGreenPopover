@@ -5,7 +5,7 @@ auto_validation: true
 time: 15
 author_name: Thomas Jung
 author_profile: https://github.com/jung-thomas
-tags: [tutorial>beginner, products>sap-hana, topic>android, tutorial>license]
+tags: [tutorial>beginner, products>sap-hana, software-product>sap-retail-execution-for-android, tutorial>license]
 primary_tag: products>sap-hana
 ---
 
