@@ -4,6 +4,8 @@ description: Move data between in-memory and extended tables. Set connection pro
 auto_validation: true
 primary_tag: 	software-product-function>bw-planning
 tags: [  tutorial>beginner, topic>big-data, topic>sql, tutorial>license ]
+author_name: Oleksandra Kovtunenko
+author_profile: https://github.com/Oleksandra2
 ---
 ## Prerequisites
  - **Proficiency:** Beginner
