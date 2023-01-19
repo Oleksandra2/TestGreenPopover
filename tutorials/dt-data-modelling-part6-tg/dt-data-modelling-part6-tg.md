@@ -1,5 +1,5 @@
 ---
-title: Seeing Calculation View Results Test Green Pop-over Ten
+title: Seeing Calculation View Results Test Green Pop-over Ten with contributor
 description: Generating select statements for results and visualization
 auto_validation: true
 primary_tag: programming-tool>multi-tenant-architecture
