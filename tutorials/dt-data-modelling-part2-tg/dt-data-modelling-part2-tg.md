@@ -4,6 +4,8 @@ description: Conversion and importation of calculation views for Dynamic Tiering
 auto_validation: true
 primary_tag: topic>compliance
 tags: [ tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql, tutorial>license ]
+author_name: Oleksandra Kovtunenko
+author_profile: https://github.com/Oleksandra2
 ---
 
 ## Prerequisites
