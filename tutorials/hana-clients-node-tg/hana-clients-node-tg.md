@@ -5,6 +5,9 @@ auto_validation: true
 time: 15
 tags: [ tutorial>beginner, software-product-function>sap-hana-cloud\,-sap-hana-database, products>sap-hana, products>sap-hana\,-express-edition, topic>node-js]
 primary_tag: products>sap-hana-cloud
+author_name: Joshua Margo
+author_profile: https://github.com/Oleksandra2
+
 ---
 
 ## Prerequisites
