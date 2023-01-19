@@ -1,9 +1,11 @@
 ---
-title: Adding Analytic Privileges and the SAP HANA Modeler Perspective Test Green Pop-over Five
+title: Adding Analytic Privileges and the SAP HANA Modeler Perspective Test Green Pop-over Five updated
 description: Understanding the various types of Information Views used in SAP HANA to create analytical reports.
 auto_validation: true
 primary_tag: topic>node.js
 tags: [ tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, products>sap-hana-studio, topic>big-data, topic>sql ]
+author_name: Oleksandra Kovtunenko
+author_profile: https://github.com/Oleksandra2
 ---
 
 ## Prerequisites
@@ -20,7 +22,9 @@ tags: [ tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering,
  **15 Min**
 
  ---
-[ACCORDION-BEGIN [Step 1: ](Adding an Analytic Privilege)]
+[ACCORDION-BEGIN [Step 1: ](Adding an Analytic Privilege)]r
+
+Test
 
 We will be adding an analytic privilege to your TPCH user. This will give TPCH access to read all information views.
 
