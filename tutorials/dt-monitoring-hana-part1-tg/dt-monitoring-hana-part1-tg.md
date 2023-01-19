@@ -1,9 +1,11 @@
 ---
-title: Monitoring SAP HANA Using SAP HANA Cockpit and SAP HANA Studio for SAP HANA Dynamic Tiering Test Green Pop-over Fourteen
+title: Monitoring SAP HANA Using SAP HANA Cockpit and SAP HANA Studio for SAP HANA Dynamic Tiering Test Green Pop-over Fourteen just test
 description: Checking the esserver process and coordinator types to determine if Dynamic Tiering is running and if extended storage is created and running.
 auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
 tags: [  tutorial>beginner, products>sap-hana, products>sap-hana-dynamic-tiering, topic>big-data, topic>sql ]
+author_name: Oleksandra Kovtunenko
+author_profile: https://github.com/Oleksandra2
 ---
 
 ## Prerequisites  

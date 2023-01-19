@@ -1,5 +1,5 @@
 ---
-title: Enlarging a Dbspace File Using Reserved Space Test Green Pop-over Twelve
+title: Enlarging a Dbspace File Using Reserved Space Test Green Pop-over Twelve without author name
 primary_tag: products>sap-hana-dynamic-tiering
 auto_validation: true
 description: Use reserved spaces to increase the size of a Dbspace file

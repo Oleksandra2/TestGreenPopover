@@ -1,5 +1,5 @@
 ---
-title: Creating and Removing Extended Storage Test Green Pop-over Fifteen
+title: Creating and Removing Extended Storage Test Green Pop-over Fifteen without author 2
 description: Creating and removing Extended Storage using SAP HANA Studio and SAP HANA Cockpit
 auto_validation: true
 primary_tag: products>sap-hana-dynamic-tiering
