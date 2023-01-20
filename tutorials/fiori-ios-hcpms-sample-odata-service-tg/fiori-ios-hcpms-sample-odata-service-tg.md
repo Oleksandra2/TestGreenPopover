@@ -5,8 +5,8 @@ auto_validation: true
 primary_tag: topic>abap-development
 tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 10
-owner_name: Test Test
-owner_profile: https://github.com/BigotryOps
+author_name: Test Test
+author_profile: https://github.com/BigotryOps
 ---
 ## Prerequisites  
  - **Development environment:** Apple iMac, MacBook or MacBook Pro running Xcode 9 or higher
