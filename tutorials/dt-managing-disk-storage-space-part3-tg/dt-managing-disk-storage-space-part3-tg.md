@@ -1,5 +1,5 @@
 ---
-title: Dropping a Dbspace File Test Green Pop-over Thirteen same author
+title: Dropping a Dbspace File Test Green Pop-over Thirteen same author updated
 primary_tag: 	programming-tool>sql
 auto_validation: true
 description: 2 methods to drop a Dbspace file
