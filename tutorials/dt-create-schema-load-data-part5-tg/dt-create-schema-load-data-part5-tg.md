@@ -1,5 +1,5 @@
 ---
-title: Selectively Move Data Between In-Memory and Extended Tables Test Green Pop-over One upd
+title: Selectively Move Data Between In-Memory and Extended Tables Test Green Pop-over One updated
 description: Move data between in-memory and extended tables. Set connection property values.
 auto_validation: true
 primary_tag: 	software-product-function>bw-planning
