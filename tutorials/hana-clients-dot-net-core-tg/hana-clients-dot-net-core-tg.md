@@ -1,5 +1,5 @@
 ---
-title: Connect Using the SAP HANA .NET Interface Test Green Pop-over Fourty One
+title: Connect Using the SAP HANA .NET Interface Test Green Pop-over Fourty One updated
 description: Create and debug a .NET application that connects to SAP HANA using the SAP HANA client.
 auto_validation: true
 time: 15
