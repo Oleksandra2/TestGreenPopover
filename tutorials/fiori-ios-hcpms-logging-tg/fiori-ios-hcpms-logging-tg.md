@@ -1,5 +1,5 @@
 ---
-title: Logging and tracing in SAP Mobile Services for development and operations Test Green Pop-over Eighteen updated
+title: Logging and tracing in SAP Mobile Services for development and operations Test Green Pop-over Eighteen updated2
 description: Logging and tracing overview in the SAP Mobile Services for development and operations Administration Cockpit. These tutorials will guide you through the initial steps to set up a Multi-Target Application (MTA) in XS Advanced, using a Git repository, creating an HTML5 module, a HANA Deployment Infrastructure (HDI) module and exposing XSJS and OData services.These tutorials will guide you through the initial steps to set up a Multi-Target Application (MTA) in XS Advanced
 auto_validation: true
 primary_tag: topic>abap-development
