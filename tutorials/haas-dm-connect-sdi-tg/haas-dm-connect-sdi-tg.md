@@ -3,8 +3,6 @@ title: Configure SAP HANA service smart data integration for SAP BTP with the SA
 description: Configure the data provisioning agent and create a remote source.
 auto_validation: true
 time: 25
-author_name: Thomas Jung
-author_profile: https://github.com/jung-thomas
 tags: [tutorial>beginner, products>sap-hana, tutorial>license]
 primary_tag: products>analytics
 
