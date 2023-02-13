@@ -2,8 +2,6 @@
 title: Implement Your First Screen in an iOS App Test Green Pop-over Twenty Four updated
 description: Implement the first screen of your SAP BTP SDK for iOS app.
 auto_validation: true
-author_name: Kevin Muessig
-author_profile: https://github.com/KevinMuessig
 primary_tag: topic>abap-development
 tags: [ tutorial>intermediate, topic>abap-development ]
 time: 60
