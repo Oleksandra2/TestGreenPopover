@@ -2,8 +2,6 @@
 title: Configure the SAP Web IDE Development Environment for SAP HANA service for SAP BTP Test Green Pop-over Thirty Six
 description: Configure SAP Web IDE for Full Stack, which you will use to create a multi-target application based on the SAP Cloud Application Programming Model.
 auto_validation: true
-author_name: Thomas Jung
-author_profile: https://github.com/jung-thomas
 time: 15
 tags: [tutorial>beginner, products>sap-hana, tutorial>license]
 primary_tag: products>sap-hana
