@@ -1,8 +1,6 @@
 ---
 title: Customize the Overview View Controller to Display Customers and Products Test Green Pop-over Twenty Seven
 description: Use the Swift programming language and the SAP BTP SDK for iOS to implement data loading from the sample data service and display the results in a Table View in your app. Also add Table View Section Headers and Footers to give the data more structure and a nice clean UI.
-author_name: Kevin Muessig
-author_profile: https://github.com/KevinMuessig
 auto_validation: true
 primary_tag: topic>abap-development
 tags: [ tutorial>intermediate, topic>abap-development  ]
