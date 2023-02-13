@@ -5,8 +5,6 @@ auto_validation: true
 primary_tag: topic>abap-development
 tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 15
-author_name: Sandeep TDS
-author_profile: https://github.com/sandeep-tds
 ---
 
 ## Prerequisites
