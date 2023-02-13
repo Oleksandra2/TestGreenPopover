@@ -5,8 +5,6 @@ auto_validation: true
 primary_tag: topic>abap-development
 tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 10
-author_name: Jitendra Kansal
-author_profile: https://github.com/jitendrakansal
 ---
 
 ## Prerequisites  
