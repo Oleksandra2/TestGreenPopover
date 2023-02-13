@@ -5,8 +5,6 @@ auto_validation: true
 primary_tag: topic>mobile
 tags: [  tutorial>intermediate, topic>big-data, topic>sql ]
 time: 10
-author_name: Jitendra Kansal
-author_profile: https://github.com/jitendrakansal
 ---
 
 ## Prerequisites  
