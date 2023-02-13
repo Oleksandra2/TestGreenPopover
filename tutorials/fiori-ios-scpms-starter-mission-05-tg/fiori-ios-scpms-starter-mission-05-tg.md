@@ -2,8 +2,6 @@
 title: Understand Mac Catalyst Test Green Pop-over Twenty Five
 description: Learn what Mac Catalyst is and what you should consider before transforming your iOS app into a MacOS application.
 auto_validation: true
-author_name: Kevin Muessig
-author_profile: https://github.com/KevinMuessig
 primary_tag: topic>abap-development
 tags: [ tutorial>intermediate, topic>abap-development  ]
 time: 20
