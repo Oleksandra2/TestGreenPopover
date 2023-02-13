@@ -3,8 +3,6 @@ title: Deploy SAP HANA service for SAP BTP Test Green Pop-over Thirty Nine
 description: Create an instance of the SAP HANA service for SAP BTP.
 auto_validation: true
 time: 15
-author_name: Thomas Jung
-author_profile: https://github.com/jung-thomas
 tags: [tutorial>beginner, products>sap-hana, tutorial>license]
 primary_tag: products>sap-hana
 ---
