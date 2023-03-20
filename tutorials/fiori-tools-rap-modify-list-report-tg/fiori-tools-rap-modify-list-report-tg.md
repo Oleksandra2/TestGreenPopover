@@ -252,7 +252,7 @@ You will achieve this by using specific annotations which are implemented within
 
 !![refine ids](IDsLabels_1.png)
 
-Add the `@EndUserText` and `@ObjectModel` annotations to the fields as shown in the coding fragments below.
+1. Add the `@EndUserText` and `@ObjectModel` annotations to the fields as shown in the coding fragments below.
 
 Annotation `@EndUserText.label` defines the column label for the related fields. `@ObjectModel.text.element` controls the source of the content shown for the related field. For field `TravelID` this will be the `Description` field from this view. `AgencyID` and `CustomerID` will get their content from the related field through the corresponding association.
 
@@ -299,9 +299,9 @@ After saving and activating the file and refreshing the application, you will se
 
 !![refine ids](IDsLabels_2.png)
 
-
-
+[DONE]
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [Step 5: ](Implement value help for selection fields Customer and Status)]
 
 When you choose the value help icon of the selection field **Customer** in the filter bar, you get a dialog which provides the option to conditionally load data by the customer ID. For better usability you would rather select customer data like name or address from a list.
