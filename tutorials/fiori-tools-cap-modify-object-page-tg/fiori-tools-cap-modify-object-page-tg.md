@@ -1,6 +1,6 @@
 ---
 title: Extend the Object Page by Adding More Functionality Test Green Pop-over Twenty Nine
-description: Refine the object page by adding new fields and extend it with a new section leveraging the Flexible Programming Model.
+description: Refine the object page by adding new fields and extend it with a new section leveraging the Flexible Programming Model. Refine the object page by adding new fields and extend it with a new section leveraging the Flexible Programming Model. Refine the object page by adding new fields and extend it with a new section leveraging the Flexible Programming Model.
 auto_validation: true
 time: 40
 primary_tag: topic>abap-development
