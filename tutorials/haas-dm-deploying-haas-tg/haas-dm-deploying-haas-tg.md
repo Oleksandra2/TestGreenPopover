@@ -23,6 +23,8 @@ primary_tag: products>sap-hana
 
 [ACCORDION-BEGIN [Step 1: ](Access the Cloud Foundry account)]
 
+Updated 
+
 Open Google Chrome and navigate to the [SAP BTP cockpit](https://account.hana.ondemand.com/). Click **Log On**.
 
 ![New project from template](1X.png)
